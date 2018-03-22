@@ -1,4 +1,4 @@
-# byu-hero-banner
+# byu-hero-banner TEST TEST TEST
 
 This is a simple Hero Image Banner Component using the BYU Web Community web component
 tools.
@@ -25,7 +25,7 @@ The side image layout features a 616x414 image to the left of the text. In phone
 
 This layout is applied by adding the side-image css class to the component.
 
-# ***REMOVED*** Overlay
+# Transparent Overlay
 
 This hero option puts the text in a transparent overlay that sits on the left side of the image. Future releases will allow moving this overlay to the right or bottom-center of the image. In tablet and phone sizes the overlay moves to the bottom of the image.
 
